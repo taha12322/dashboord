@@ -119,6 +119,7 @@ const ThemeMenu = () => {
                     <i className='bx bx-x'></i>
                 </button>
                 <div className="theme-menu__select">
+                  {/* bg color mood */}
                     <span>Choose mode</span>
                     <ul className="mode-list">
                         {
